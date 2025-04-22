@@ -1,8 +1,4 @@
-<!-- Dark Mode Theme with Professional Design -->
 
-
-
-<!-- About Me Section with Animation -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
   <b>About Me</b>
@@ -17,7 +13,6 @@
 I'm passionate about exploring the tech world and learning how APIs work and interact. I started my journey in 2020 and have been growing my skills step by step. Recently, I developed an interest in vulnerability hunting and cybersecurity. I enjoy discovering new areas in technology and continuously improving myself.
 </p>
 
-<!-- Skills Section with Better Typography -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"> 
   <b>Skills & Technologies</b>
@@ -62,7 +57,6 @@ I'm passionate about exploring the tech world and learning how APIs work and int
   </table>
 </div>
 
-<!-- Business Projects Section with Professional Design -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" height="30"> 
   <b>Business & Projects</b>
@@ -107,7 +101,6 @@ I'm passionate about exploring the tech world and learning how APIs work and int
 
 </div>
 
-<!-- Footer with Discord Accounts -->
 <h2 align="center">
   <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20" height="20">
   Wanna talk? Dis:
