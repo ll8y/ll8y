@@ -14,7 +14,7 @@
 </div>
 
 <p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.6;">
-I’m passionate about exploring the tech world and learning how APIs work and interact. I started my journey in 2020 and have been growing my skills step by step. Recently, I developed an interest in vulnerability hunting and cybersecurity. I enjoy discovering new areas in technology and continuously improving myself.
+I'm passionate about exploring the tech world and learning how APIs work and interact. I started my journey in 2020 and have been growing my skills step by step. Recently, I developed an interest in vulnerability hunting and cybersecurity. I enjoy discovering new areas in technology and continuously improving myself.
 </p>
 
 <!-- Skills Section with Better Typography -->
@@ -62,72 +62,66 @@ I’m passionate about exploring the tech world and learning how APIs work and i
   </table>
 </div>
 
-<!-- Business Projects Section with Better Animations & Design -->
+<!-- Business Projects Section with Professional Design -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" height="30"> 
   <b>Business & Projects</b>
 </h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 0 auto; max-width: 1000px;">
-  <!-- TimeHost -->
-  <div class="business-card" style="background: linear-gradient(140deg, #161b22, #0d1117); border-radius: 16px; padding: 25px; width: 280px; box-shadow: 0 10px 25px rgba(138, 43, 226, 0.3); transition: all 0.3s ease; position: relative; overflow: hidden; border-left: 4px solid #8A2BE2;">
-    <div style="position: absolute; top: 0; right: 0; width: 80px; height: 80px; background: linear-gradient(225deg, #8A2BE2 0%, transparent 80%); opacity: 0.8;"></div>
-    <div style="margin-bottom: 15px;">
-      <img src="https://img.shields.io/badge/TimeHost-8A2BE2?style=for-the-badge&logo=server-fault&logoColor=white">
-    </div>
-    <h3 style="margin: 10px 0; color: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600;">CEO & Founder</h3>
-    <p style="color: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin-top: 10px;">
-      Platform for hosting bots with 24/7 continuous operation
-    </p>
-    <p style="color: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin-top: 10px; background-color: rgba(255, 69, 0, 0.2); padding: 6px 10px; border-radius: 8px; display: inline-block;">
-      <span style="color: #ff4500; font-weight: 600;">Status:</span> Paused until further notice | 2023
-    </p>
-  </div>
-  
-  <!-- Blue Tools Service -->
-  <div class="business-card" style="background: linear-gradient(140deg, #161b22, #0d1117); border-radius: 16px; padding: 25px; width: 280px; box-shadow: 0 10px 25px rgba(138, 43, 226, 0.3); transition: all 0.3s ease; position: relative; overflow: hidden; border-left: 4px solid #4169E1;">
-    <div style="position: absolute; top: 0; right: 0; width: 80px; height: 80px; background: linear-gradient(225deg, #4169E1 0%, transparent 80%); opacity: 0.8;"></div>
-    <div style="margin-bottom: 15px;">
-      <img src="https://img.shields.io/badge/BLUE_Tools-4169E1?style=for-the-badge&logo=codechef&logoColor=white">
-    </div>
-    <h3 style="margin: 10px 0; color: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600;">CEO & Owner</h3>
-    <p style="color: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin-top: 10px;">
-      Specialized in tool sales and custom tool programming services
-    </p>
-    <p style="color: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin-top: 10px; background-color: rgba(40, 167, 69, 0.2); padding: 6px 10px; border-radius: 8px; display: inline-block;">
-      <span style="color: #28a745; font-weight: 600;">Status:</span> Active | 2023-2025
-    </p>
-  </div>
-  
-  <!-- KmSt Lua Script Service -->
-  <div class="business-card" style="background: linear-gradient(140deg, #161b22, #0d1117); border-radius: 16px; padding: 25px; width: 280px; box-shadow: 0 10px 25px rgba(138, 43, 226, 0.3); transition: all 0.3s ease; position: relative; overflow: hidden; border-left: 4px solid #FF1493;">
-    <div style="position: absolute; top: 0; right: 0; width: 80px; height: 80px; background: linear-gradient(225deg, #FF1493 0%, transparent 80%); opacity: 0.8;"></div>
-    <div style="margin-bottom: 15px;">
-      <img src="https://img.shields.io/badge/KmSt_Scripts-FF1493?style=for-the-badge&logo=lua&logoColor=white">
-    </div>
-    <h3 style="margin: 10px 0; color: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600;">CEO & Founder</h3>
-    <p style="color: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin-top: 10px;">
-      Provided scripts and other programming services
-    </p>
-    <p style="color: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin-top: 10px; background-color: rgba(220, 53, 69, 0.2); padding: 6px 10px; border-radius: 8px; display: inline-block;">
-      <span style="color: #dc3545; font-weight: 600;">Status:</span> Closed | 2021-2023
-    </p>
-  </div>
+<div align="center">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <div style="margin: 10px; padding: 20px; border-radius: 10px; border-left: 4px solid #8A2BE2; background-color: #161b22;">
+        <img src="https://img.shields.io/badge/TimeHost-8A2BE2?style=for-the-badge&logo=server-fault&logoColor=white" alt="TimeHost">
+        <h3 style="color: #e6edf3; margin-top: 15px;">CEO & Founder</h3>
+        <p style="color: #8b949e; margin: 10px 0;">Platform for hosting bots with 24/7 continuous operation</p>
+        <div style="margin-top: 15px; padding: 8px 12px; border-radius: 5px; background-color: rgba(255, 69, 0, 0.2); display: inline-block;">
+          <span style="color: #ff4500; font-weight: bold;">⚫ Paused</span> | 2023
+        </div>
+      </div>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <div style="margin: 10px; padding: 20px; border-radius: 10px; border-left: 4px solid #4169E1; background-color: #161b22;">
+        <img src="https://img.shields.io/badge/BLUE_Tools-4169E1?style=for-the-badge&logo=codechef&logoColor=white" alt="BLUE Tools">
+        <h3 style="color: #e6edf3; margin-top: 15px;">CEO & Owner</h3>
+        <p style="color: #8b949e; margin: 10px 0;">Specialized in tool sales and custom tool programming services</p>
+        <div style="margin-top: 15px; padding: 8px 12px; border-radius: 5px; background-color: rgba(40, 167, 69, 0.2); display: inline-block;">
+          <span style="color: #28a745; font-weight: bold;">🟢 Active</span> | 2023-2025
+        </div>
+      </div>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <div style="margin: 10px; padding: 20px; border-radius: 10px; border-left: 4px solid #FF1493; background-color: #161b22;">
+        <img src="https://img.shields.io/badge/KmSt_Scripts-FF1493?style=for-the-badge&logo=lua&logoColor=white" alt="KmSt Scripts">
+        <h3 style="color: #e6edf3; margin-top: 15px;">CEO & Founder</h3>
+        <p style="color: #8b949e; margin: 10px 0;">Provided scripts and other programming services</p>
+        <div style="margin-top: 15px; padding: 8px 12px; border-radius: 5px; background-color: rgba(220, 53, 69, 0.2); display: inline-block;">
+          <span style="color: #dc3545; font-weight: bold;">⚫ Closed</span> | 2021-2023
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <!-- Footer with Discord Accounts -->
-<div align="center" ">
-  </h2>
-  
-  <div style="margin: 20px 0;">
-    <div style="background: linear-gradient(140deg, #202530, #0d1117); border-radius: 10px; padding: 15px; display: inline-block; box-shadow: 0 5px 15px rgba(138, 43, 226, 0.2);">
-      <h3 style="margin: 0 0 10px 0; color: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600;">Wanna talk?  Dis:</h3>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <span style="background-color: #5865F2; color: white; font-family: 'Segoe UI', sans-serif; padding: 5px 10px; border-radius: 5px; font-size: 14px;">@_._i</span>
-        <span style="background-color: #5865F2; color: white; font-family: 'Segoe UI', sans-serif; padding: 5px 10px; border-radius: 5px; font-size: 14px;">@.5c</span>
-        <span style="background-color: #5865F2; color: white; font-family: 'Segoe UI', sans-serif; padding: 5px 10px; border-radius: 5px; font-size: 14px;">@l8k</span>
-        <span style="background-color: #5865F2; color: white; font-family: 'Segoe UI', sans-serif; padding: 5px 10px; border-radius: 5px; font-size: 14px;">@hb9</span>
-      </div>
-    </div>
-  </div>
-</div>
+<h2 align="center">
+  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20" height="20">
+  Wanna talk? Dis:
+</h2>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/@_._i-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="#"><img src="https://img.shields.io/badge/@.5c-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="#"><img src="https://img.shields.io/badge/@l8k-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="#"><img src="https://img.shields.io/badge/@hb9-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+
+
+
+
+
