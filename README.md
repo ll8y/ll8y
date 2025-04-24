@@ -72,7 +72,7 @@ I'm passionate about exploring the tech world and learning how APIs work and int
         <h3 style="color: #e6edf3; margin-top: 15px;">CEO & Founder</h3>
         <p style="color: #8b949e; margin: 10px 0;">Platform for hosting bots with 24/7 continuous operation</p>
         <div style="margin-top: 15px; padding: 8px 12px; border-radius: 5px; background-color: rgba(255, 69, 0, 0.2); display: inline-block;">
-          <span style="color: #ff4500; font-weight: bold;">⚫ Paused</span> | 2023
+          <span style="color: #ff4500; font-weight: bold;">⚫ Paused</span> | 2023-2024
         </div>
       </div>
     </td>
