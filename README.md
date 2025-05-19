@@ -35,7 +35,7 @@ I'm passionate about exploring the tech world and learning how APIs work and int
       <td align="center" style="padding: 16px;">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=151515">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=151515">
-        <br><span style="color: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 14px;">CSS Frameworks</span>
+        <br><span style="color: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 14px;">CSS Frameworks (im new with them)</span>
       </td>
       <td align="center" style="padding: 16px;">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=151515">
